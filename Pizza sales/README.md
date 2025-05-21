@@ -15,7 +15,7 @@
 
 ### 🔧 Project Breakdown
 #### 🧹 Part I – Data Preparation (Power BI)
--Removed null entries and handled missing data
+- Removed null entries and handled missing data
 
 - Assigned appropriate data types
 
