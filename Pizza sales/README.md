@@ -1,10 +1,10 @@
 # 🏥 Patient Care and Clinical Outcomes Dashboard
-📊 Overview
-In today’s healthcare landscape, data-driven insights play a crucial role in improving patient outcomes and enhancing operational efficiency. This dashboard offers a comprehensive view of clinical care using data from over 6,900 patients, focusing on metrics like demographics, diagnostic results, treatment durations, medication usage, and healthcare expenditures.
+###📊 Overview
+  In today’s healthcare landscape, data-driven insights play a crucial role in improving patient outcomes and enhancing operational efficiency. This dashboard offers a comprehensive view of clinical care using data from over 6,900 patients, focusing on metrics like demographics, diagnostic results, treatment durations, medication usage, and healthcare expenditures.
 
-By visualizing trends in age, gender, blood type, chronic conditions, and insurance coverage, the dashboard supports healthcare professionals and analysts in making evidence-based decisions to optimize patient care and resource allocation.
+  By visualizing trends in age, gender, blood type, chronic conditions, and insurance coverage, the dashboard supports healthcare professionals and analysts in making evidence-based decisions to optimize patient care and resource allocation.
 
-🎯 Objective
+### 🎯 Objective
 The goal of this project is to empower healthcare professionals, data analysts, and policy-makers by:
 
 Identifying critical intervention points
@@ -13,8 +13,8 @@ Optimizing care strategies
 
 Enhancing clinical outcomes through real-world data insights
 
-🔧 Project Breakdown
-🧹 Part I – Data Preparation (Power BI)
+### 🔧 Project Breakdown
+#### 🧹 Part I – Data Preparation (Power BI)
 Removed null entries and handled missing data
 
 Assigned appropriate data types
@@ -23,7 +23,7 @@ Created relational columns for better data modeling
 
 Ensured clean, consistent, and structured data ready for visualization
 
-💻 Part II – SQL Querying
+#### 💻 Part II – SQL Querying
 Employed SQL for deep data exploration:
 
 SELECT, WHERE, GROUP BY, ORDER BY
@@ -32,7 +32,7 @@ Aggregations, Common Table Expressions (CTEs), and subqueries
 
 Extracted patterns and generated meaningful insights
 
-📈 Part III – Power BI Dashboard Components
+#### 📈 Part III – Power BI Dashboard Components
 Cards: Show total patients, avg. age, hospital stay duration, total and per-patient expenses
 
 Bar Charts: Compare values like age groups and insurance providers
