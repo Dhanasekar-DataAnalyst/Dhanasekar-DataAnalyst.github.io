@@ -47,7 +47,8 @@
 
 - Slicers: Interactive filters (admission type, year, month) with icon-based UI for cleaner design
 
-![Pizza_sales_dashboard_complete](https://github.com/user-attachments/assets/8676d99c-11ed-4894-b88e-2e9f2a81c917)
+
+![image](https://github.com/user-attachments/assets/c9130092-5bbd-4cc3-87fe-57a8f1e93a08)
 
   
 
