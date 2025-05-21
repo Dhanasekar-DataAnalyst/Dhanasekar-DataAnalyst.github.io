@@ -108,3 +108,31 @@ These visualizations highlight trends in pizza sales, customer behavior, and ope
 - H1 Leader: Barbecue Chicken Pizza
 
 - H2 Leader: Thai Chicken Pizza (~1–2% higher revenue)
+
+#### 🪑 Customer Volume & Seating Recommendation
+- On average, 30–40 customers place orders daily.
+
+- It is recommended to arrange 7 tables with 34 chairs, including 2 larger joined tables to accommodate group seating and enhance customer comfort.
+
+#### 🛠 Operational Recommendations
+- As noon is the peak time, maintain efficient air conditioning to ensure a pleasant dining experience.
+
+- Ensure an adequate number or capacity of ovens to reduce wait times and support timely order deliveries.
+
+#### ⭐ Reviews & Ratings
+- Implementing a review and rating system can help gather customer feedback and improve service.
+
+- A simple approach could include sticky notes on a dedicated board for one quarter to gauge response.
+
+- If successful, consider using web or app-based platforms to collect digital reviews more efficiently.
+
+
+  ![Pizza_sales_dashboard_complete](https://github.com/user-attachments/assets/3030d8c3-c158-4dc2-a36a-7a06042289c2)
+
+
+#### 📌 Conclusion
+The insights derived from this exploratory analysis can greatly benefit the operational and strategic decisions of the pizza shop. While data-driven decisions are generally accurate around 80–90%, external factors may still impact outcomes.
+However, with proper interpretation, this analysis provides a strong foundation for informed decision-making and continuous business improvement.
+
+
+
