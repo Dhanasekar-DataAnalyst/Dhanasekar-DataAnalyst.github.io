@@ -47,6 +47,10 @@
 
 - Slicers: Interactive filters (admission type, year, month) with icon-based UI for cleaner design
 
+![Pizza_sales_dashboard_complete](https://github.com/user-attachments/assets/8676d99c-11ed-4894-b88e-2e9f2a81c917)
+
+  
+
 🔍 Key Insights
 📅 1,200 patients admitted annually across hospitals
 
