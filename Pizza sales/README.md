@@ -44,3 +44,67 @@ The raw dataset was provided in CSV format. Key cleaning steps included:
 - quantity – Number of pizzas ordered
 
 - order_date, order_time – When the order was placed
+
+- unit_price: Price of one pizza (in USD)
+
+- total_price: Computed as unit_price * quantity
+
+- pizza_size: Pizza size (Small, Medium, Large, X Large, XX Large)
+
+- pizza_type: Pizza type identifier
+
+- pizza_ingredients: Ingredients (all include mozzarella & tomato sauce unless otherwise specified)
+
+- pizza_name: Menu name of the pizza
+
+### 📊 Part II: Data Visualization (Tableau)
+Tableau was used to build interactive dashboards using:
+
+- Bar Charts (vertical & horizontal)
+
+- Pie Charts
+
+- Cards (for KPIs)
+
+- Filters (to slice the data by time or category)
+
+These visualizations highlight trends in pizza sales, customer behavior, and operational metrics.
+
+### 🔍 Key Insights
+#### 💰 Revenue
+- Annual Revenue: ~£0.82 million
+
+- Monthly Average: ~£68,000
+
+#### 📅 Busiest Day & Time
+- Top Day: Friday
+
+- Peak Hours: 12:00 PM – 2:00 PM
+
+#### Monthly Trends:
+
+- Early-week busy: March, June, November
+
+- Midweek busy: April, September, October, December
+
+#### 🍕 Popular Pizza Sizes
+- Most Sold Sizes: Large (L) and Medium (M)
+
+#### 🔝 Best-Selling Pizza
+- Classic Deluxe Pizza (Small):
+
+- ~5% of total sales
+
+- ~5.3% of total revenue
+
+#### 📉 Lowest-Selling Pizza
+- Brie Care Pizza:
+
+  - ~1% of total sales
+
+  - ~1.4% of total revenue
+
+#### 📈 Pizza Trends Over the Year
+- H1 Leader: Barbecue Chicken Pizza
+
+- H2 Leader: Thai Chicken Pizza (~1–2% higher revenue)
