@@ -1,4 +1,4 @@
-#🏥 Patient Care and Clinical Outcomes Dashboard
+# 🏥 Patient Care and Clinical Outcomes Dashboard
 📊 Overview
 In today’s healthcare landscape, data-driven insights play a crucial role in improving patient outcomes and enhancing operational efficiency. This dashboard offers a comprehensive view of clinical care using data from over 6,900 patients, focusing on metrics like demographics, diagnostic results, treatment durations, medication usage, and healthcare expenditures.
 
